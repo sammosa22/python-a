@@ -22,7 +22,7 @@ def frage_spielername(nummer):
         if re.match(muster, name):
             return name
 
-        print("❌ Ungülddddddtiger Name. Bitte nur Buchstaben verwenden.\n")
+        print("❌ Ungüldcvxcvxcvdddddtiger Name. Bitte nur Buchstaben verwenden.\n")
 
 
 def main():
